@@ -1,1 +1,1 @@
-# terraform-module-google-bigquery-dataset
+# Terraform Module: Google BigQuery Dataset
