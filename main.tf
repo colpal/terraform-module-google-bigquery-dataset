@@ -11,3 +11,7 @@ resource "google_bigquery_dataset" "_" {
   dataset_id  = var.dataset_id
   description = var.description
 }
+
+output "dataset_id" {
+  value = google_bigquery_dataset._.dataset_id
+}
