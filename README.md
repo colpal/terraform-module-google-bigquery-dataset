@@ -1,6 +1,6 @@
 # Terraform Module: Google BigQuery Dataset
 
-A simplified wrapper around the google_bigquery_dataset module
+A simplified wrapper around the `google_bigquery_dataset` module
 
 ## Example
 
