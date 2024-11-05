@@ -26,5 +26,10 @@ module "_" {
   # DEFAULT = null
   # A plaintext description to be added to the dataset
   description = string
+
+  # OPTIONAL
+  # DEFAULT = null
+  # Key/value pairs that will be applied to the dataset as labels
+  labels = map(string)
 }
 ```
