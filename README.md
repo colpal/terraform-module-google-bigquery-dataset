@@ -2,8 +2,8 @@
 
 A simplified wrapper around the `google_bigquery_dataset` module
 
-> Note: This module is a work in progress! If there are any attributes missing
-> that you would like to see supported, please open an issue.
+> **Note: This module is a work in progress! If there are any attributes missing
+> that you would like to see supported, please open an issue.**
 
 ## Example
 
