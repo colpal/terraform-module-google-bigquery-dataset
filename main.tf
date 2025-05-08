@@ -21,3 +21,7 @@ resource "google_bigquery_dataset" "_" {
 output "dataset_id" {
   value = google_bigquery_dataset._.dataset_id
 }
+
+output "location" {
+  value = google_bigquery_dataset._.location
+}
